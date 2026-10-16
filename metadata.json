@@ -1,0 +1,6 @@
+{
+  "name": "Hablar sin miedo - Իսպաներեն 7-րդ դասարան",
+  "description": "Իսպաներեն խոսակցական պրակտիկա հայ աշակերտների համար (A2-B1)՝ ինտերակտիվ թարգմանությամբ, արտասանությամբ և ձայնի կառավարմամբ։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
